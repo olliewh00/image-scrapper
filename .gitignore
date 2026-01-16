@@ -1,0 +1,16 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Project Specific Data
+# We ignore the actual images and the output data for privacy
+images/
+image_metadata.json
+
+# OS Specific
+.DS_Store
+Thumbs.db
